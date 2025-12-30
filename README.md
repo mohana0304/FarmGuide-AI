@@ -3,7 +3,7 @@
 FarmGuide AI is an AI-powered smart farming assistant designed to help farmers make informed agricultural decisions. The platform provides crop recommendations and advisory insights using modern web technologies.
 
 ---
-
+🔗 **Live Demo:** https://farm-guide-ai.vercel.app/
 ## 🚀 Features
 
 - 🌾 AI-based crop recommendation system  
@@ -11,7 +11,8 @@ FarmGuide AI is an AI-powered smart farming assistant designed to help farmers m
 - 📱 Responsive design (mobile & desktop)  
 - ⚡ Fast development using Vite  
 - 🎨 Modern UI with React & Tailwind CSS  
-- 🔌 Ready for backend / ML API integration  
+- 🔌 Ready for backend / ML API integration
+  
 
 ---
 
